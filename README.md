@@ -10,3 +10,5 @@
 
 [Пара слов о devicetree, DTB, DTS](devtree.md)
 
+[Ассемблер Xtensa](xtensa_asm.md)
+
