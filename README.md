@@ -12,3 +12,10 @@
 
 [Ассемблер Xtensa](xtensa_asm.md)
 
+
+### 0-day's
+Уязвимости, которые были обнаружены, описаны и зарегистрированы другими исследователями:
+
+ [CVE-2020-13364](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13364)
+
+ [CVE-2020-13365](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13365)
