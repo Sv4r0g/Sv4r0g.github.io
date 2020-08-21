@@ -1,6 +1,6 @@
 ![pcb](resources/harry.jpg)
 
-[@godexmachine](https://twitter.com/r0mpage)
+[@r0mpage](https://twitter.com/r0mpage)
 
 ### IoT Stuff
 
